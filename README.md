@@ -21,8 +21,7 @@ I'm a technology, education, and innovation enthusiast. This is my knowledge hub
   
 
 <p  align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=AmandaFonseca&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff"  alt="GitHub Stats"  />
-
+<img src="https://github-readme-stats.vercel.app/api?username=AmandaFonseca&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" alt="GitHub Stats" />
 </p>
 
   
@@ -85,4 +84,5 @@ I'm a technology, education, and innovation enthusiast. This is my knowledge hub
 <br  clear="both">
 <img  src="https://raw.githubusercontent.com/AmandaFonseca/AmandaFonseca/b5644868fab0629f1d5a0d57fd3eece88ab2f14a/github-contribution-grid-snake.svg"  alt="Snake animation"  />
   
+
 ###
