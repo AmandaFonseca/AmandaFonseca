@@ -46,21 +46,7 @@ I'm a technology, education, and innovation enthusiast. This is my knowledge hub
   </picture>
 </p>
 
----
 
-### 📁 Popular Repositories
-
-<p align="center">
-  <a href="https://github.com/AmandaFonseca/flutter_astronomy_picture_project">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AmandaFonseca&repo=flutter_astronomy_picture_project&theme=github_dark&title_color=00ff99&icon_color=00ff99&text_color=ffffff&hide_border=false">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AmandaFonseca&repo=flutter_astronomy_picture_project&theme=default&title_color=00843c&icon_color=00843c&text_color=24292f&hide_border=false">
-      <img alt="Repo Card" src="https://github-readme-stats.vercel.app/api/pin/?username=AmandaFonseca&repo=flutter_astronomy_picture_project&theme=github_dark&title_color=00ff99&icon_color=00ff99&text_color=ffffff&hide_border=false">
-    </picture>
-  </a>
-</p>
-
----
 
 ### 🛠️ Technologies
 
